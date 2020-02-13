@@ -11,21 +11,15 @@ Once you have anaconda set up and the repository cloned or downloaded, to set up
 
 Create the environment:
 
-```
-conda env create -f eeAlr.yml
-```
+`$ conda env create -f eeAlr.yml`
 
 Activate the new environment:
 
-```
-conda activate eeAlr
-```
+`$ conda activate eeAlr`
 
 Verify that the new environment was installed correctly:
 
-```
-conda env list
-```
+`$ conda env list`
 
 There should be an asterisk next to eeAlr showing that it is the active environment.
 
