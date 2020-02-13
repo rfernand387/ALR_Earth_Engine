@@ -31,9 +31,7 @@ There should be an asterisk next to eeAlr showing that it is the active environm
 
 You can now launch Jupyter Lab (a newer web based IDE for jupyter notebboks) in the current directory with the cloned git repository.
 
-```
-jupyter lab
-```
+`$ jupyter lab`
 
 The notebooks should be functional with Earth Engine as my credentials are stored in `credentials.json`. If Earth Engine is not working you may have to add a line in the scripts to trigger the authentication flow for a new machine after as below
 
