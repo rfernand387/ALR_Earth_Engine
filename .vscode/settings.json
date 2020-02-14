@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/hshah/anaconda3/envs/eeAlr/bin/python"
+    "python.pythonPath": "/home/hshah/anaconda3/envs/eeAlr/bin/python",
+    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=62b330b65aae78156628572db0b735edbf2adbfa06013572"
 }

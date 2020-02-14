@@ -1,0 +1,33 @@
+- Implement neural network properly in Keras
+- Benchmark LAR vs LAR+NNet vs LAR+eeRTree performance
+- Write paper comparing SL2P vs LAR vs LAR+NNet estimates for biophysical variables
+- Read Najib's ALR paper and MATLAB code
+- Implement cross validation to determine when to stop LARs
+    - 10 blocks of input data, determine RMSE for each, min RMSE and STDEV of RMSEs
+    - Find min RMSE of all iterations, add stdev of RMSEs to it
+    - Go to earliest iteration with min RMSE of 10 blocks under the above value
+- Implement test criteria in stanford paper to determine iteration of LARs to stop on
+- Implement trimming in python
+- Implement feature transforms in python
+- Implement orthogonal sampling for cross validation
+- Implement ALR using python and GEE
+- Test ALR using dat aset provided by Najib
+
+- Get VSCode past Windows Firewall (call helpdesk for Admin credentials)
+
+
+- python
+- ipython
+- jupyter notebook/lab
+- numpy
+- scipy
+- matplotlib
+- pandas
+- sympy
+- cython
+- ipyparallel
+- scikit-learn / scikit-image
+- tensorflow, keras
+- pytorch
+
+- R
