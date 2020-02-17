@@ -13,6 +13,7 @@
 - Implement ALR using python and GEE
 - Test ALR using dat aset provided by Najib
 
+- Get someone with admin credentials to login and enable the Windows OpenSSH Client
 - Get VSCode past Windows Firewall (call helpdesk for Admin credentials)
 
 
