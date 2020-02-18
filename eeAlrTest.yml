@@ -1,4 +1,4 @@
-name: eeAlr
+name: eeAlrTest
 channels:
   - conda-forge
   - anaconda
@@ -218,5 +218,5 @@ dependencies:
     - tensorflow-estimator==2.1.0
     - termcolor==1.1.0
     - werkzeug==0.16.0
-prefix: /home/hshah/anaconda3/envs/eeAlr
+prefix: /home/hshah/anaconda3/envs/eeAlrTest
 

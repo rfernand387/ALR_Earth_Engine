@@ -8,13 +8,9 @@
     - Go to earliest iteration with min RMSE of 10 blocks under the above value
 - Implement test criteria in stanford paper to determine iteration of LARs to stop on
 - Implement trimming in python
-- Implement feature transforms in python
 - Implement orthogonal sampling for cross validation
 - Implement ALR using python and GEE
-- Test ALR using dat aset provided by Najib
-
-- Get someone with admin credentials to login and enable the Windows OpenSSH Client
-- Get VSCode past Windows Firewall (call helpdesk for Admin credentials)
+- Test ALR using dataset provided by Najib
 
 
 - python
